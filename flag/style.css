@@ -1,0 +1,33 @@
+.top{
+    background-color: orange;
+    position: relative;
+    height: 100px;
+    width:600px;
+    top:100px;
+    left:300px;
+}
+.middle{
+    background-color:white;
+    position: relative;
+    height: 100px;
+    width:600px;
+    top:100px;
+    left:300px;
+}
+.wheel{
+    background-color:blueviolet;
+    position: relative;
+    border-radius: 90px;
+    height: 100px;
+    width:100px;
+    top:-100px;
+    left:550px;
+}
+.bottom{
+background-color: green;
+position: relative;
+height: 100px;
+width:600px;
+top:100px;
+left:300px;
+}
